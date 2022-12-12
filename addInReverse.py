@@ -17,9 +17,9 @@ def addTwoNumbers(l1, l2):
 
 ###################### Real Deal ##########################
 ## Take two ListNode and convert them into ordinary list ##
-## 		reverse the lists and convert them into int 	 ##
-## 						add them						 ##
-## 			return the ListNode of reversed sum 		 ##
+##      reverse the lists and convert them into int      ##
+##                       add them                        ##
+##          return the ListNode of reversed sum          ##
 ###########################################################
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
